@@ -1,11 +1,12 @@
 %% Inverse power method MATLAB visualisation
-% Copyright (C) 2017  Cristescu I. Bogdan Ion
+% Copyright (C) 2017 Cristescu I. Bogdan Ion
 % djbogdy3x@yahoo.com
+% GNU Affero General Public License
 % see https://github.com/DJakarta/inverse-power-method
 
 %% Versioning
-% V 1.0.0
-% Modified 05.01.2017 02:15
+% V 1.0.1
+% Modified 05.01.2017 02:23
 
 %% GUI read for inverse power method
 %	The function displays a GUI asking for a matrix, a value for tolerance
