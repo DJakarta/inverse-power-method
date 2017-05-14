@@ -1,4 +1,4 @@
-# inverse-power-method
+# Inverse power method visualisation - input
 Inverse power method MATLAB visualisation for 3x3 matrix.
 
 Copyright (C) 2017 Cristescu I. Bogdan Ion  
